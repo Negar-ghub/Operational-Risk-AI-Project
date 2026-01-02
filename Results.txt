@@ -1,0 +1,2 @@
+Total data points processed: 220
+Number of detected operational risks (anomalies): 22 
